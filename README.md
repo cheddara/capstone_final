@@ -1,4 +1,4 @@
-# 🧠 Capstone Final Project: Predicting Developmental Screening in Early Childhood
+# Capstone Final Project: Predicting Developmental Screening in Early Childhood
 
 ## 🎯 Project Overview
 
