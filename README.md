@@ -157,17 +157,12 @@ Tuned ensemble models improved predictive performance but increased complexity.
 
 ## 🚀 Recommendations & Next Steps
 
-- Use predictive insights to target outreach toward underserved populations
-- Incorporate additional healthcare utilization variables
-- Explore cost-sensitive learning approaches
-- Evaluate models using weighted survey estimates
-- Test models on future NSCH waves for stability
-- Develop decision-support tools for policymakers and providers
-- Target distribution of developmental screening
-- Screening disparities by income, race/ethnicity, and preventive care access
-- Correlation heatmap of predictors
-- Confusion matrices for all models
-- Model comparison using ROC-AUC
+- Use predictive insights to target outreach toward underserved populations.
+- Incorporate additional healthcare utilization variables.
+- Explore cost-sensitive learning approaches.
+- Evaluate models using weighted survey estimates.
+- Test models on future NSCH waves for stability.
+- Develop decision-support tools for policymakers and providers.
 
 ---
 
@@ -182,11 +177,11 @@ Main analysis notebook:
 
 Example outputs:
 
-- Screening by income level
-- Screening by race/ethnicity
-- Preventive care access effects
-- Confusion matrices for models
-- Model comparison by ROC-AUC
+- Target distribution of developmental screening
+- Screening disparities by income, race/ethnicity, and preventive care access
+- Correlation heatmap of predictors
+- Confusion matrices for all models
+- Model comparison using ROC-AUC
 
 (See `/images` folder)
 
