@@ -1,5 +1,4 @@
 # Capstone Final Project: Predicting Developmental Screening in Early Childhood
-
 ---
 ## Abstract
 
