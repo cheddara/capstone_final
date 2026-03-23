@@ -10,9 +10,9 @@ Results indicate that developmental screening is strongly associated with socioe
 
 These findings highlight persistent disparities in early childhood screening and suggest that predictive analytics can support targeted outreach and resource allocation. When implemented responsibly, such models could assist healthcare providers and policymakers in identifying populations at risk of missed screenings and in improving equitable access to early intervention services.
 
----
+
 ## Executive Summary
----
+
 
 This project analyzes developmental screening among children ages 0–3 using nationally representative survey data. Machine learning models were developed to identify factors associated with whether children receive screening. Results indicate that socioeconomic status and access to preventive healthcare are key predictors. These insights can support targeted outreach and policy interventions to improve early childhood outcomes.
 
