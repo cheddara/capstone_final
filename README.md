@@ -1,5 +1,9 @@
 # Capstone Final Project: Predicting Developmental Screening in Early Childhood
 
+## Executive Summary
+
+This project analyzes developmental screening among children ages 0–3 using nationally representative survey data. Machine learning models were developed to identify factors associated with whether children receive screening. Results indicate that socioeconomic status and access to preventive healthcare are key predictors. These insights can support targeted outreach and policy interventions to improve early childhood outcomes.
+
 ## 🎯 Project Overview
 
 Early childhood developmental screening is a critical preventive health service that helps identify developmental delays and connect children to early intervention. Despite national guidelines recommending routine screening, many children do not receive these assessments.
@@ -200,7 +204,8 @@ Example outputs:
 ## 📎 Notes
 
 The NSCH dataset is not included due to size and distribution restrictions.  
-It can be obtained from the U.S. Census Bureau NSCH data portal.
+It can be obtained from the U.S. Census Bureau NSCH data portal. 
+Source: https://www2.census.gov/programs-surveys/nsch/
 
 ---
 
