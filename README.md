@@ -1,5 +1,5 @@
 # Capstone Final Project: Predicting Developmental Screening in Early Childhood
----
+
 ## Abstract
 
 Early childhood developmental screening is a critical preventive service that enables the timely identification of developmental delays and access to early intervention. Despite national recommendations for routine screening, many children do not receive these assessments, potentially exacerbating long-term health, educational, and social disparities. This study develops predictive models to estimate the likelihood that children aged 0–3 received developmental screening using data from the 2022 National Survey of Children’s Health (NSCH), a nationally representative dataset of U.S. children.
