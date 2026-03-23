@@ -1,6 +1,19 @@
 # Capstone Final Project: Predicting Developmental Screening in Early Childhood
 
+---
+## Abstract
+
+Early childhood developmental screening is a critical preventive service that enables the timely identification of developmental delays and access to early intervention. Despite national recommendations for routine screening, many children do not receive these assessments, potentially exacerbating long-term health, educational, and social disparities. This study develops predictive models to estimate the likelihood that children aged 0–3 received developmental screening using data from the 2022 National Survey of Children’s Health (NSCH), a nationally representative dataset of U.S. children.
+
+A supervised binary classification framework was implemented using demographic, socioeconomic, and healthcare access variables. Logistic Regression, Random Forest, and Gradient Boosting models were trained and evaluated using stratified train/test splits, cross-validation, and hyperparameter tuning. Model performance was assessed using precision, recall, F1-score, and the area under the receiver operating characteristic curve (ROC-AUC), emphasizing discriminative ability across classification thresholds.
+
+Results indicate that developmental screening is strongly associated with socioeconomic status and access to preventive healthcare services. Ensemble models demonstrated improved predictive performance relative to the baseline Logistic Regression model, capturing nonlinear relationships among predictors. However, interpretability considerations remain important for policy applications.
+
+These findings highlight persistent disparities in early childhood screening and suggest that predictive analytics can support targeted outreach and resource allocation. When implemented responsibly, such models could assist healthcare providers and policymakers in identifying populations at risk of missed screenings and in improving equitable access to early intervention services.
+
+---
 ## Executive Summary
+---
 
 This project analyzes developmental screening among children ages 0–3 using nationally representative survey data. Machine learning models were developed to identify factors associated with whether children receive screening. Results indicate that socioeconomic status and access to preventive healthcare are key predictors. These insights can support targeted outreach and policy interventions to improve early childhood outcomes.
 
