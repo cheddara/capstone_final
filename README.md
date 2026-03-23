@@ -163,6 +163,11 @@ Tuned ensemble models improved predictive performance but increased complexity.
 - Evaluate models using weighted survey estimates
 - Test models on future NSCH waves for stability
 - Develop decision-support tools for policymakers and providers
+- Target distribution of developmental screening
+- Screening disparities by income, race/ethnicity, and preventive care access
+- Correlation heatmap of predictors
+- Confusion matrices for all models
+- Model comparison using ROC-AUC
 
 ---
 
