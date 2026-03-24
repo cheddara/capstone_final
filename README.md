@@ -217,7 +217,8 @@ Example outputs:
 
 The NSCH dataset is not included due to size and distribution restrictions.  
 It can be obtained from the U.S. Census Bureau NSCH data portal. 
-Source: https://www2.census.gov/programs-surveys/nsch/
+Source: U.S. Census Bureau — National Survey of Children’s Health (NSCH)  
+https://www2.census.gov/programs-surveys/nsch/
 
 ---
 
